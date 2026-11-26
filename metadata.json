@@ -1,0 +1,8 @@
+{
+  "name": "VOUCHER TO TRANSIT",
+  "description": "Srsly though buy ticket to ride it\u0027s good",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
